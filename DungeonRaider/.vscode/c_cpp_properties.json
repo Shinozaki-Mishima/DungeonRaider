@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "DungeonRaiderEditor Editor Win64 Development (DungeonRaider)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\DungeonRaider\\DungeonRaider\\DungeonRaider\\.vscode\\compileCommands_DungeonRaider.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\DungeonRaider\\DungeonRaider\\DungeonRaider\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

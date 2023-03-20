@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonRaider",
+			"Path": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\DungeonRaider\\DungeonRaider\\DungeonRaider\\Source\\DungeonRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonRaiderEditor",
+			"Path": "C:\\Users\\Shivan\\Documents\\Unreal Projects\\DungeonRaider\\DungeonRaider\\DungeonRaider\\Source\\DungeonRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

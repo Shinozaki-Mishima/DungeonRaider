@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonraider\\dungeonraiderprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\dungeonraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\development\\dungeonraider\\definitions.dungeonraider.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\source\\dungeonraider\\dungeonraiderprojectile.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonraider\\dungeonraiderprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
