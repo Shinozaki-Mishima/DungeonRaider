@@ -1135,3 +1135,76 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.21-15.50.15:198][473]AssetCheck: New page: Asset Save: Dungeon
 [2023.03.21-15.50.15:198][473]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
 [2023.03.21-15.50.17:231][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.21-15.54.53:076][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.54.53:117][808]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.21-15.54.53:118][808]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/DungeonDAA8C5E04769D70640FBD99E33DE4579.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.21-15.54.53:137][808]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.21-15.54.53:137][808]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.21-15.56.27:896][ 10]Cmd: DELETE
+[2023.03.21-15.56.27:896][ 10]Cmd: ACTOR DELETE
+[2023.03.21-15.56.27:900][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.56.27:905][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.21-15.56.27:906][ 10]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.59.14:101][319]Cmd: TRANSACTION UNDO
+[2023.03.21-15.59.14:101][319]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.59.14:949][363]Cmd: TRANSACTION UNDO
+[2023.03.21-15.59.14:949][363]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.59.17:050][610]Cmd: TRANSACTION REDO
+[2023.03.21-15.59.17:050][610]LogEditorTransaction: Redo Move Elements
+[2023.03.21-15.59.17:518][663]Cmd: TRANSACTION REDO
+[2023.03.21-15.59.17:518][663]LogEditorTransaction: Redo Move Elements
+[2023.03.21-15.59.18:530][780]Cmd: TRANSACTION UNDO
+[2023.03.21-15.59.18:530][780]LogEditorTransaction: Undo Move Elements
+[2023.03.21-16.01.34:233][479]Cmd: DELETE
+[2023.03.21-16.01.34:233][479]Cmd: ACTOR DELETE
+[2023.03.21-16.01.34:237][479]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-16.01.34:242][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.21-16.01.34:243][479]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-16.01.47:166][ 25]Cmd: TRANSACTION UNDO
+[2023.03.21-16.01.47:166][ 25]LogEditorTransaction: Undo Delete Elements
+[2023.03.21-16.02.18:986][696]Cmd: TRANSACTION UNDO
+[2023.03.21-16.02.18:986][696]LogEditorTransaction: Undo Move Elements
+[2023.03.21-16.03.38:859][ 70]Cmd: DELETE
+[2023.03.21-16.03.38:859][ 70]Cmd: ACTOR DELETE
+[2023.03.21-16.03.38:863][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-16.03.38:868][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.21-16.03.38:869][ 70]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-16.03.50:039][356]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Flat...
+[2023.03.21-16.03.50:039][356]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.50:549][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.50:549][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.50:549][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_439
+[2023.03.21-16.03.53:072][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.53:072][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.53:073][698]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_440
+[2023.03.21-16.03.53:227][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.53:227][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.53:227][714]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_441
+[2023.03.21-16.03.55:366][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.55:366][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.03.21-16.03.55:367][967]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_442
+[2023.03.21-16.04.30:397][ 30]Cmd: DELETE
+[2023.03.21-16.04.30:398][ 30]Cmd: ACTOR DELETE
+[2023.03.21-16.04.30:402][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-16.04.30:407][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.21-16.04.30:408][ 30]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-16.05.31:867][269]Cmd: TRANSACTION UNDO
+[2023.03.21-16.05.31:867][269]LogEditorTransaction: Undo Move Elements
+[2023.03.21-16.05.49:281][258]Cmd: TRANSACTION UNDO
+[2023.03.21-16.05.49:281][258]LogEditorTransaction: Undo Move Elements
+[2023.03.21-16.06.39:161][543]Cmd: DELETE
+[2023.03.21-16.06.39:161][543]Cmd: ACTOR DELETE
+[2023.03.21-16.06.39:165][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-16.06.39:170][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.21-16.06.39:171][543]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-16.06.57:722][712]Cmd: DELETE
+[2023.03.21-16.06.57:722][712]Cmd: ACTOR DELETE
+[2023.03.21-16.06.57:726][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-16.06.57:731][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.21-16.06.57:732][712]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-16.07.15:553][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-16.07.15:597][826]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.21-16.07.15:597][826]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon612ECE9E4515CD02A0E14EAEA81043F5.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.21-16.07.15:619][826]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.21-16.07.15:619][826]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.21-16.07.17:850][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
