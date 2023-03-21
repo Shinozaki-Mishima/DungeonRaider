@@ -914,3 +914,224 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.21-15.15.13:375][904]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.03.21-15.15.13:382][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2023.03.21-15.15.13:383][904]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.03.21-15.17.33:509][624]LogDerivedDataCache: C:/Users/Shivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.397 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.21-15.17.49:083][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.21-15.17.49:123][795]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.21-15.17.49:124][795]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/DungeonE5297EBE4F039A69B0CFB89D6F912C52.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.21-15.17.49:155][795]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.21-15.17.49:155][795]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.21-15.20.18:723][409]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Half_B...
+[2023.03.21-15.20.18:726][409]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.03.21-15.20.20:094][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.03.21-15.20.20:094][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.03.21-15.20.20:095][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_386
+[2023.03.21-15.20.26:144][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.03.21-15.20.26:144][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.03.21-15.20.26:144][277]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_387
+[2023.03.21-15.21.33:215][179]Cmd: DELETE
+[2023.03.21-15.21.33:215][179]Cmd: ACTOR DELETE
+[2023.03.21-15.21.33:219][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.21.33:224][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.21-15.21.33:225][179]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.21.53:008][502]Cmd: DELETE
+[2023.03.21-15.21.53:008][502]Cmd: ACTOR DELETE
+[2023.03.21-15.21.53:012][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.21.53:016][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.21.53:018][502]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.21.55:764][820]Cmd: DELETE
+[2023.03.21-15.21.55:764][820]Cmd: ACTOR DELETE
+[2023.03.21-15.21.55:768][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.21.55:773][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.21.55:774][820]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.21.59:355][237]Cmd: DELETE
+[2023.03.21-15.21.59:355][237]Cmd: ACTOR DELETE
+[2023.03.21-15.21.59:360][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.21.59:364][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.21.59:365][237]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.22.02:003][539]Cmd: DELETE
+[2023.03.21-15.22.02:003][539]Cmd: ACTOR DELETE
+[2023.03.21-15.22.02:007][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.22.02:012][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.22.02:013][539]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.22.04:189][787]Cmd: DELETE
+[2023.03.21-15.22.04:189][787]Cmd: ACTOR DELETE
+[2023.03.21-15.22.04:193][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.22.04:198][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.22.04:199][787]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.22.08:753][321]Cmd: DELETE
+[2023.03.21-15.22.08:753][321]Cmd: ACTOR DELETE
+[2023.03.21-15.22.08:757][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.22.08:762][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.22.08:763][321]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.22.09:823][436]Cmd: DELETE
+[2023.03.21-15.22.09:823][436]Cmd: ACTOR DELETE
+[2023.03.21-15.22.09:827][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.22.09:832][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.22.09:833][436]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.23.39:718][895]Cmd: DELETE
+[2023.03.21-15.23.39:718][895]Cmd: ACTOR DELETE
+[2023.03.21-15.23.39:722][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.39:723][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.39:723][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.39:723][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.39:728][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.23.39:729][895]LogEditorActor: Deleted 4 Actors (0.010 secs)
+[2023.03.21-15.23.45:278][535]Cmd: DELETE
+[2023.03.21-15.23.45:278][535]Cmd: ACTOR DELETE
+[2023.03.21-15.23.45:282][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.45:282][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.23.45:286][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.21-15.23.45:288][535]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2023.03.21-15.24.53:226][278]LogStaticMesh: Display: Building static mesh SM_Ceiling_Flat_Half...
+[2023.03.21-15.24.53:226][278]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2023.03.21-15.24.54:424][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2023.03.21-15.24.54:424][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2023.03.21-15.24.54:424][406]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_391
+[2023.03.21-15.25.01:209][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2023.03.21-15.25.01:209][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2023.03.21-15.25.01:210][214]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_392
+[2023.03.21-15.28.16:297][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.21-15.28.16:338][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto3
+[2023.03.21-15.28.16:339][664]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon_Auto3C4B89CFB4B4130351FD7C785572A3B2C.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Autosaves/Game/Dungeon_Auto3.umap'
+[2023.03.21-15.28.16:342][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.050
+[2023.03.21-15.28.16:342][664]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.03.21-15.28.26:294][703]Cmd: DELETE
+[2023.03.21-15.28.26:294][703]Cmd: ACTOR DELETE
+[2023.03.21-15.28.26:298][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.28.26:303][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.28.26:304][703]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.28.33:749][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.21-15.28.33:749][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.21-15.28.33:749][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_393
+[2023.03.21-15.28.37:496][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.21-15.28.37:496][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.21-15.28.37:496][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_394
+[2023.03.21-15.31.37:079][ 74]Cmd: DELETE
+[2023.03.21-15.31.37:079][ 74]Cmd: ACTOR DELETE
+[2023.03.21-15.31.37:083][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.31.37:088][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.21-15.31.37:089][ 74]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.34.37:383][242]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.37:383][242]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.37:796][249]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.37:796][249]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.34.39:309][408]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.39:309][408]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.40:026][490]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.40:026][490]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.40:500][543]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.40:500][543]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.34.45:245][ 94]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.45:245][ 94]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.47:629][326]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.47:629][326]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.48:224][392]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.48:224][392]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.48:685][444]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.48:685][444]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.49:079][488]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.49:079][488]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.34.49:896][579]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.49:896][579]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.50:274][621]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.50:274][621]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.34.50:489][640]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.50:489][640]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.34.50:818][673]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.50:818][673]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.51:180][713]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.51:180][713]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.51:459][743]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.51:459][743]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.51:768][777]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.51:768][777]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.34.52:785][890]Cmd: TRANSACTION UNDO
+[2023.03.21-15.34.52:785][890]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.36.15:931][429]Cmd: TRANSACTION UNDO
+[2023.03.21-15.36.15:931][429]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.36.16:344][436]Cmd: TRANSACTION UNDO
+[2023.03.21-15.36.16:344][436]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.36.16:665][460]Cmd: TRANSACTION UNDO
+[2023.03.21-15.36.16:665][460]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.36.18:317][655]Cmd: TRANSACTION UNDO
+[2023.03.21-15.36.18:317][655]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.36.20:207][871]Cmd: TRANSACTION UNDO
+[2023.03.21-15.36.20:207][871]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.38.02:554][274]Cmd: TRANSACTION UNDO
+[2023.03.21-15.38.02:554][274]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.38.03:174][292]Cmd: TRANSACTION UNDO
+[2023.03.21-15.38.03:174][292]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.38.03:621][336]Cmd: TRANSACTION UNDO
+[2023.03.21-15.38.03:621][336]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.38.10:285][124]Cmd: TRANSACTION UNDO
+[2023.03.21-15.38.10:285][124]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.38.11:021][153]Cmd: TRANSACTION UNDO
+[2023.03.21-15.38.11:021][153]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.38.12:185][287]Cmd: TRANSACTION REDO
+[2023.03.21-15.38.12:185][287]LogEditorTransaction: Redo Move Elements
+[2023.03.21-15.38.26:282][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2023.03.21-15.38.26:282][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2023.03.21-15.38.26:283][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_408
+[2023.03.21-15.38.29:138][247]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2023.03.21-15.38.29:138][247]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2023.03.21-15.38.29:139][247]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_409
+[2023.03.21-15.38.37:016][162]Cmd: DELETE
+[2023.03.21-15.38.37:016][162]Cmd: ACTOR DELETE
+[2023.03.21-15.38.37:021][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.38.37:025][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.21-15.38.37:027][162]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.38.38:355][308]Cmd: DELETE
+[2023.03.21-15.38.38:355][308]Cmd: ACTOR DELETE
+[2023.03.21-15.38.38:360][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.38.38:366][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.21-15.38.38:367][308]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.21-15.38.39:534][433]Cmd: DELETE
+[2023.03.21-15.38.39:534][433]Cmd: ACTOR DELETE
+[2023.03.21-15.38.39:538][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.21-15.38.39:542][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.38.39:544][433]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.21-15.38.41:693][686]LogEditorViewport: Clicking Background
+[2023.03.21-15.39.11:487][ 40]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.11:487][ 40]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.39.12:649][124]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.12:649][124]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.39.12:935][155]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.12:936][155]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.39.13:195][183]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.13:195][183]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.39.13:405][205]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.13:405][205]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.39.13:774][246]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.13:774][246]LogEditorTransaction: Undo Delete Elements
+[2023.03.21-15.39.14:597][335]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.14:597][335]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.39.15:014][382]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.15:014][382]LogEditorTransaction: Undo Delete Elements
+[2023.03.21-15.39.15:437][423]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.15:437][423]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.39.15:817][465]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.15:817][465]LogEditorTransaction: Undo Delete Elements
+[2023.03.21-15.39.17:067][604]Cmd: TRANSACTION UNDO
+[2023.03.21-15.39.17:067][604]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.42.08:415][356]Cmd: TRANSACTION UNDO
+[2023.03.21-15.42.08:415][356]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.42.09:572][438]Cmd: TRANSACTION UNDO
+[2023.03.21-15.42.09:572][438]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.42.55:197][814]LogEditorViewport: Clicking Background
+[2023.03.21-15.43.31:194][910]Cmd: TRANSACTION UNDO
+[2023.03.21-15.43.31:194][910]LogEditorTransaction: Undo Move Elements
+[2023.03.21-15.43.32:238][977]Cmd: TRANSACTION UNDO
+[2023.03.21-15.43.32:238][977]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.21-15.45.48:287][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.21-15.45.48:321][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.21-15.45.48:366][526]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.21-15.45.48:367][526]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon767B69A94C651A238D28F59182DA654B.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.21-15.45.48:379][526]LogFileHelpers: Saving map 'Dungeon' took 0.063
+[2023.03.21-15.45.48:413][526]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.21-15.45.48:413][526]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.21-15.50.15:140][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.21-15.50.15:181][473]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.21-15.50.15:182][473]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon24BBF8F74815B91A3BAF8AAA403A8891.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.21-15.50.15:198][473]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.21-15.50.15:198][473]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.21-15.50.17:231][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
