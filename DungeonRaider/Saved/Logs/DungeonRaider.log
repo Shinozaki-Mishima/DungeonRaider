@@ -1038,3 +1038,111 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.22-16.34.12:841][319]AssetCheck: New page: Asset Save: Dungeon
 [2023.03.22-16.34.12:841][319]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
 [2023.03.22-16.34.15:741][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.22-16.41.42:035][232]Cmd: DELETE
+[2023.03.22-16.41.42:035][232]Cmd: ACTOR DELETE
+[2023.03.22-16.41.42:042][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.22-16.41.42:046][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.22-16.41.42:047][232]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.22-16.41.51:788][362]Cmd: TRANSACTION UNDO
+[2023.03.22-16.41.51:788][362]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.41.52:293][371]Cmd: TRANSACTION UNDO
+[2023.03.22-16.41.52:293][371]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.41.52:736][414]Cmd: TRANSACTION UNDO
+[2023.03.22-16.41.52:736][414]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.41.53:464][496]Cmd: TRANSACTION UNDO
+[2023.03.22-16.41.53:464][496]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.22-16.41.53:938][548]Cmd: TRANSACTION UNDO
+[2023.03.22-16.41.53:938][548]LogEditorTransaction: Undo Delete Elements
+[2023.03.22-16.42.55:714][817]Cmd: DELETE
+[2023.03.22-16.42.55:714][817]Cmd: ACTOR DELETE
+[2023.03.22-16.42.55:720][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.22-16.42.55:725][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.22-16.42.55:726][817]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.22-16.43.05:216][920]Cmd: DELETE
+[2023.03.22-16.43.05:216][920]Cmd: ACTOR DELETE
+[2023.03.22-16.43.05:223][920]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.22-16.43.05:228][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.22-16.43.05:229][920]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.22-16.43.55:335][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2023.03.22-16.43.55:335][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2023.03.22-16.43.55:336][784]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_495
+[2023.03.22-16.43.56:960][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2023.03.22-16.43.56:960][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2023.03.22-16.43.56:961][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_496
+[2023.03.22-16.46.40:385][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.22-16.46.40:452][ 86]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.46.40:453][ 86]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon814451F84EEBE77CB945CF880FDEE363.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.46.40:472][ 86]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.46.40:472][ 86]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.46.55:638][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.46.55:638][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.46.55:639][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_498
+[2023.03.22-16.46.57:958][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.46.57:959][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.46.57:959][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_499
+[2023.03.22-16.47.11:186][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.22-16.47.11:253][597]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.47.11:254][597]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon687D85204D7356D5107729AFE3948310.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.47.11:273][597]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.47.11:273][597]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.48.31:578][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.31:578][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.31:578][523]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_500
+[2023.03.22-16.48.34:137][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.34:137][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.34:137][821]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_501
+[2023.03.22-16.48.34:766][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.34:766][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.34:766][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_502
+[2023.03.22-16.48.37:924][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.37:924][261]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.03.22-16.48.37:925][261]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_503
+[2023.03.22-16.49.20:421][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.22-16.49.20:488][227]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.49.20:489][227]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon053A22EC4141C62F3967F99D9ED03376.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.49.20:508][227]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.49.20:508][227]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.50.03:071][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.22-16.50.03:139][180]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.50.03:140][180]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon7D877995413C46B00CED1F9112C99317.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.50.03:169][180]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.50.03:169][180]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.52.23:406][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.22-16.52.23:474][364]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.52.23:475][364]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/DungeonD18BC137411DB982ED6D7F831D3D027F.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.52.23:508][364]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.52.23:508][364]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.55.17:309][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.22-16.55.17:377][396]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.55.17:378][396]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon5F79B9704514E4161FDF558F6AC92C35.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.55.17:406][396]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.55.17:406][396]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.56.27:083][647]Cmd: TRANSACTION UNDO
+[2023.03.22-16.56.27:083][647]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.22-16.56.28:228][726]Cmd: TRANSACTION UNDO
+[2023.03.22-16.56.28:228][726]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.22-16.56.30:844][ 29]Cmd: TRANSACTION UNDO
+[2023.03.22-16.56.30:844][ 29]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.22-16.56.35:652][593]Cmd: TRANSACTION REDO
+[2023.03.22-16.56.35:652][593]LogEditorTransaction: Redo Clicking on Elements
+[2023.03.22-17.00.47:073][880]LogEditorViewport: Clicking Background
+[2023.03.22-17.01.30:090][909]LogEditorViewport: Clicking Background
+[2023.03.22-17.04.24:727][585]LogEditorViewport: Clicking Background
+[2023.03.22-17.05.23:524][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.22-17.05.23:593][ 49]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto3
+[2023.03.22-17.05.23:594][ 49]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon_Auto3BC49EFC04373100ABC62CC9482D24BE4.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Autosaves/Game/Dungeon_Auto3.umap'
+[2023.03.22-17.05.23:597][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.082
+[2023.03.22-17.05.23:598][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2023.03.22-17.10.17:840][262]LogEditorViewport: Clicking Background
+[2023.03.22-17.10.59:379][705]LogEditorViewport: Clicking Background
+[2023.03.22-17.11.02:660][ 56]LogEditorViewport: Clicking Background
+[2023.03.22-17.11.04:090][195]LogEditorViewport: Clicking Background
+[2023.03.22-17.12.57:040][939]LogDerivedDataCache: C:/Users/Shivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.644 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.22-17.14.15:019][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.22-17.14.15:077][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.22-17.14.15:149][528]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-17.14.15:150][528]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon3493AF27433A4867E151A5A155BC4EDF.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-17.14.15:169][528]LogFileHelpers: Saving map 'Dungeon' took 0.100
+[2023.03.22-17.14.15:178][528]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-17.14.15:178][528]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-17.15.46:831][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
