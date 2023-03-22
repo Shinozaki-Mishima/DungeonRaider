@@ -926,3 +926,115 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.22-15.54.03:679][290]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon117C76384A993120C1396595C30DCA4A.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
 [2023.03.22-15.54.03:710][290]AssetCheck: New page: Asset Save: Dungeon
 [2023.03.22-15.54.03:710][290]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-15.57.51:697][271]LogEditorViewport: Clicking Background
+[2023.03.22-16.02.27:421][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.02.27:421][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.02.27:421][589]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_354
+[2023.03.22-16.02.30:555][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.02.30:555][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.02.30:556][958]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_355
+[2023.03.22-16.03.11:083][346]Cmd: TRANSACTION UNDO
+[2023.03.22-16.03.11:083][346]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.04.34:446][230]Cmd: TRANSACTION UNDO
+[2023.03.22-16.04.34:446][230]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.05.27:620][919]LogEditorViewport: Clicking Background
+[2023.03.22-16.07.17:091][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.07.17:091][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.07.17:091][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_372
+[2023.03.22-16.07.20:506][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.07.20:506][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.07.20:507][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_373
+[2023.03.22-16.08.33:078][799]Cmd: TRANSACTION UNDO
+[2023.03.22-16.08.33:078][799]LogEditorTransaction: Undo Move Elements
+[2023.03.22-16.09.24:392][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.22-16.09.24:448][276]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.09.24:449][276]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon5911B1C84F3617DDC19A0BA605A7A52F.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.09.24:482][276]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.09.24:482][276]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.10.06:733][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.10.06:733][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.10.06:733][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_383
+[2023.03.22-16.10.13:481][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.10.13:481][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.10.13:481][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_384
+[2023.03.22-16.11.51:376][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.11.51:376][976]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.11.51:376][976]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_399
+[2023.03.22-16.11.54:389][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.11.54:389][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.11.54:390][332]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_400
+[2023.03.22-16.12.33:826][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.22-16.12.33:885][814]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.12.33:885][814]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon3E2DFEE84D02175BB37570BD7C08E627.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.12.33:904][814]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.12.33:904][814]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.12.56:651][102]LogDerivedDataCache: C:/Users/Shivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.560 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.22-16.13.51:609][157]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F9FFFD596AECF8A548E8021984266C140860408C), compiling. 
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: ================================================
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 0.62 s
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 0.75
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.75 s
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Average processing rate: 1.33 jobs/sec
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Effective parallelization: 0.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2023.03.22-16.13.52:401][222]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.22-16.13.52:402][222]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2023.03.22-16.13.52:402][222]LogShaderCompilers: Display: ================================================
+[2023.03.22-16.13.55:966][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway_C
+[2023.03.22-16.13.55:966][601]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway_C
+[2023.03.22-16.13.55:968][601]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway as actor: BP_Crypt_Doorway_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Crypt_Doorway_C_2
+[2023.03.22-16.13.55:970][601]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway as actor: BP_Crypt_Doorway_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Crypt_Doorway_C_2
+[2023.03.22-16.13.57:431][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway_C
+[2023.03.22-16.13.57:431][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway_C
+[2023.03.22-16.13.57:434][762]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway as actor: BP_Crypt_Doorway_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Crypt_Doorway_C_3
+[2023.03.22-16.13.57:436][762]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Crypt_Doorway.BP_Crypt_Doorway as actor: BP_Crypt_Doorway_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Crypt_Doorway_C_3
+[2023.03.22-16.15.34:352][904]Cmd: TRANSACTION UNDO
+[2023.03.22-16.15.34:352][904]LogEditorTransaction: Undo Set Rotation
+[2023.03.22-16.16.04:718][136]LogStaticMesh: Display: Building static mesh SM_Ceiling_Arch_B...
+[2023.03.22-16.16.04:718][136]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2023.03.22-16.16.05:305][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2023.03.22-16.16.05:305][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2023.03.22-16.16.05:305][193]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_406
+[2023.03.22-16.16.11:718][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2023.03.22-16.16.11:718][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2023.03.22-16.16.11:718][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_407
+[2023.03.22-16.16.15:094][351]Cmd: TRANSACTION UNDO
+[2023.03.22-16.16.15:094][351]LogEditorTransaction: Undo Create Actors
+[2023.03.22-16.16.24:283][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.16.24:283][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.16.24:283][304]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_408
+[2023.03.22-16.16.26:746][592]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.16.26:746][592]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2023.03.22-16.16.26:747][592]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_421
+[2023.03.22-16.16.54:017][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.22-16.16.54:079][571]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.16.54:080][571]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/DungeonD38FBD074EF2028F1A50658370C79A43.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.16.54:098][571]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.16.54:098][571]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.19.38:751][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.19.38:751][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.19.38:752][249]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_440
+[2023.03.22-16.19.42:245][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.19.42:245][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2023.03.22-16.19.42:246][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_441
+[2023.03.22-16.23.33:902][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.22-16.23.33:964][626]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.23.33:964][626]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon8FB39F4F49545D2F19E6E396372AFB23.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.23.33:984][626]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.23.33:984][626]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.34.12:743][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.22-16.34.12:809][319]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.22-16.34.12:810][319]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/DungeonF8F32B7B433E7DD626E69B9CB433D2DB.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.22-16.34.12:841][319]AssetCheck: New page: Asset Save: Dungeon
+[2023.03.22-16.34.12:841][319]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.22-16.34.15:741][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
