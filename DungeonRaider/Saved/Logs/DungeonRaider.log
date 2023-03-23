@@ -1550,3 +1550,384 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.23-16.03.03:578][ 33]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon676065AA4083193E3903A7B2286C5EA1.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
 [2023.03.23-16.03.03:607][ 33]AssetCheck: New page: Asset Save: Dungeon
 [2023.03.23-16.03.03:608][ 33]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.23-16.08.09:639][754]Cmd: TRANSACTION UNDO
+[2023.03.23-16.08.09:639][754]LogEditorTransaction: Undo Move World Outliner Items
+[2023.03.23-16.08.09:705][754]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 5C517FB99F778DEA08AF5EC6022D06765DC28F42), compiling. 
+[2023.03.23-16.08.09:730][754]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.23-16.08.09:730][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.03.23-16.08.09:730][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.23-16.08.09:730][754]MaterialEditorStats: Shader Count: 0
+[2023.03.23-16.08.09:812][756]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.08.09:812][756]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Total job queries 230, among them cache hits 109 (47.39%)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Tracking 90 distinct input hashes that result in 54 distinct outputs (60.00%)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Shaders Compiled: 37
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100.00%)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Average time worker was idle: 3.24 s
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Time job spent in pending queue: average 3.02 s, longest 8.31 s
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 2.33 s
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Job life time (pending + execution): average 4.04 s, max 9.02
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.95 s
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Jobs were issued in 90 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Average processing rate: 6.45 jobs/sec
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Effective parallelization: 5.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 0.95 sec, max 1.00 sec, min 0.93 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.99 sec, min 0.89 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.97 sec, min 0.92 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.83% of total time (compiled    5 times, average 0.87 sec, max 1.02 sec, min 0.70 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 0.86 sec, max 1.00 sec, min 0.69 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.31% of total time (compiled    5 times, average 0.79 sec, max 0.98 sec, min 0.56 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.35% of total time (compiled    4 times, average 0.81 sec, max 0.86 sec, min 0.70 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.99% of total time (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.08.09:813][756]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.08.09:878][757]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.23-16.08.09:878][757]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.03.23-16.08.09:878][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.23-16.08.09:878][757]MaterialEditorStats: Shader Count: 4
+[2023.03.23-16.08.24:258][377]Cmd: DELETE
+[2023.03.23-16.08.24:258][377]Cmd: ACTOR DELETE
+[2023.03.23-16.08.24:268][377]LogEditorActor: Deleted Actor: PointLight
+[2023.03.23-16.08.24:273][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.23-16.08.24:275][377]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.03.23-16.08.43:174][775]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.03.23-16.08.52:631][825]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0597C8B3E1FB872C86FD4502285F503E5CE232B7), compiling. 
+[2023.03.23-16.08.59:762][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2023.03.23-16.08.59:762][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2023.03.23-16.08.59:764][448]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2023.03.23-16.08.59:765][448]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2023.03.23-16.09.02:301][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2023.03.23-16.09.02:301][728]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2023.03.23-16.09.02:304][728]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2023.03.23-16.09.02:305][728]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2023.03.23-16.09.16:834][358]Cmd: TRANSACTION UNDO
+[2023.03.23-16.09.16:834][358]LogEditorTransaction: Undo Move Elements
+[2023.03.23-16.09.16:839][358]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 07E3F8E8C81E352DAAB4F39E574E0BA1B6564B58), compiling. 
+[2023.03.23-16.09.16:863][358]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.23-16.09.16:863][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.03.23-16.09.16:863][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.23-16.09.16:863][358]MaterialEditorStats: Shader Count: 0
+[2023.03.23-16.09.17:011][361]MaterialEditorStats: Texture samplers: 5/16
+[2023.03.23-16.09.17:011][361]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.03.23-16.09.17:011][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.03.23-16.09.17:011][361]MaterialEditorStats: Shader Count: 4
+[2023.03.23-16.10.02:281][413]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.23-16.10.02:281][413]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.23-16.10.36:996][413]LogSlate: Window 'Select Path' being destroyed
+[2023.03.23-16.10.47:881][413]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.03.23-16.10.47:890][413]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2023.03.23-16.10.47:901][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.23-16.10.47:911][413]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2023.03.23-16.10.47:913][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.10.48:988][413]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.03.23-16.11.21:580][376]LogSlate: Window 'Message' being destroyed
+[2023.03.23-16.11.21:584][376]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+(Selecting 'No' will cause all changes to be lost!)
+[2023.03.23-16.11.21:962][376]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: F1E9D0D7BA29F48D267EDFB988DBFDF4785ECE07), compiling. 
+[2023.03.23-16.11.21:977][376]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 4C63BDEDB7877C1C02A998EA09BB832F0F39F992), compiling. 
+[2023.03.23-16.11.21:983][376]LogMaterial: Display: Missing cached shadermap for M_BrickFloor_Clean_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 5438FAC81D56B13E4C1618F4CD5AE617C163350A), compiling. 
+[2023.03.23-16.11.22:025][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Total job queries 248, among them cache hits 123 (49.60%)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 56 distinct outputs (59.57%)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Shaders Compiled: 39
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100.00%)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Average time worker was idle: 220.13 s
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Time job spent in pending queue: average 2.89 s, longest 8.31 s
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.33 s
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Job life time (pending + execution): average 3.90 s, max 9.02
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.93 s
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Average processing rate: 6.30 jobs/sec
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 0.95 sec, max 1.00 sec, min 0.93 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.99 sec, min 0.89 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.97 sec, min 0.92 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.46% of total time (compiled    6 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.43% of total time (compiled    6 times, average 0.82 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled    6 times, average 0.76 sec, max 0.98 sec, min 0.56 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.23% of total time (compiled    4 times, average 0.81 sec, max 0.86 sec, min 0.70 sec)
+[2023.03.23-16.11.22:192][376]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.88% of total time (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.11.22:193][376]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.11.22:226][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.23-16.11.22:305][376]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.11.22:305][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.14.50:020][285]Cmd: DELETE
+[2023.03.23-16.14.50:020][285]Cmd: ACTOR DELETE
+[2023.03.23-16.14.50:030][285]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2023.03.23-16.14.50:058][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.23-16.14.50:060][285]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.03.23-16.15.47:582][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.23-16.15.47:688][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto7
+[2023.03.23-16.15.47:688][484]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon_Auto7A79857DE4A074E8E7402138D40FD7B57.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Autosaves/Game/Dungeon_Auto7.umap'
+[2023.03.23-16.15.47:694][484]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.134
+[2023.03.23-16.15.47:694][484]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2023.03.23-16.15.47:694][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Materials/M_Tiling_Master] ([1] browsable assets)...
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Total job queries 321, among them cache hits 196 (61.06%)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 56 distinct outputs (59.57%)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Shaders Compiled: 39
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100.00%)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Average time worker was idle: 220.13 s
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Time job spent in pending queue: average 2.89 s, longest 8.31 s
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.33 s
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Job life time (pending + execution): average 3.90 s, max 9.02
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.93 s
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Average processing rate: 6.30 jobs/sec
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 0.95 sec, max 1.00 sec, min 0.93 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.99 sec, min 0.89 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.97 sec, min 0.92 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.46% of total time (compiled    6 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.43% of total time (compiled    6 times, average 0.82 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled    6 times, average 0.76 sec, max 0.98 sec, min 0.56 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.23% of total time (compiled    4 times, average 0.81 sec, max 0.86 sec, min 0.70 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.88% of total time (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.15.47:817][484]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.15.47:833][484]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master]
+[2023.03.23-16.15.47:833][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Materials/M_Tiling_Master]
+[2023.03.23-16.15.47:842][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MedievalDungeon/Materials/M_Tiling_Master_Auto7
+[2023.03.23-16.15.47:842][484]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/M_Tiling_Master_Auto745E5F7FF494BC33439B6B99849877F89.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Autosaves/Game/MedievalDungeon/Materials/M_Tiling_Master_Auto7.uasset'
+[2023.03.23-16.15.47:843][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Torch_Dungeon] ([2] browsable assets)...
+[2023.03.23-16.15.47:856][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon]
+[2023.03.23-16.15.47:857][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Torch_Dungeon]
+[2023.03.23-16.15.47:864][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Torch_Dungeon_Auto7
+[2023.03.23-16.15.47:864][484]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/BP_Torch_Dungeon_Auto748176080488757636F30F19DC9428742.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Autosaves/Game/BP_Torch_Dungeon_Auto7.uasset'
+[2023.03.23-16.15.47:865][484]LogFileHelpers: Auto-saving content packages took 0.171
+[2023.03.23-16.15.52:684][964]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:Torch_PointLight_GEN_VARIABLE) Not registered. Aborting.
+[2023.03.23-16.15.52:684][964]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2023.03.23-16.15.52:730][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.23-16.16.14:883][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.14:883][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.14:884][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_2
+[2023.03.23-16.16.14:886][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_2
+[2023.03.23-16.16.18:256][428]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.18:256][428]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.18:258][428]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_3
+[2023.03.23-16.16.18:260][428]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_3
+[2023.03.23-16.16.32:320][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.32:320][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.32:322][907]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_4
+[2023.03.23-16.16.32:323][907]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_4
+[2023.03.23-16.16.36:613][363]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.36:613][363]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2023.03.23-16.16.36:616][363]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_5
+[2023.03.23-16.16.36:617][363]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_5
+[2023.03.23-16.20.07:942][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.23-16.20.08:011][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.23-16.20.08:119][881]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.03.23-16.20.08:120][881]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/Dungeon1CE81D2247F8711A6695C0B31A3CD247.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/Dungeon.umap'
+[2023.03.23-16.20.08:134][881]LogFileHelpers: Saving map 'Dungeon' took 0.146
+[2023.03.23-16.20.08:142][881]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Materials/M_Tiling_Master
+[2023.03.23-16.20.08:143][881]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/M_Tiling_Master69BD05BE4C3B873D037B2A9D8C37B2C8.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset'
+[2023.03.23-16.20.08:168][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2023.03.23-16.20.08:175][881]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2023.03.23-16.20.08:175][881]LogSavePackage: Moving '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Saved/BP_Torch_DungeonCDCD3D9946724A500447A7A89ECB3BA8.tmp' to '../../../../../../Users/Shivan/Documents/Unreal Projects/DungeonRaider/DungeonRaider/DungeonRaider/Content/BP_Torch_Dungeon.uasset'
+[2023.03.23-16.20.08:200][881]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.20.08:200][881]LogContentValidation: Display: Validating Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+[2023.03.23-16.20.08:200][881]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2023.03.23-16.20.08:200][881]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2023.03.23-16.20.09:419][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.23-16.20.09:421][  9]LogStall: Shutdown...
+[2023.03.23-16.20.09:424][  9]LogStall: Shutdown complete.
+[2023.03.23-16.20.09:445][  9]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.09:445][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.20.09:514][  9]LogSlate: Window 'DungeonRaider - Unreal Editor' being destroyed
+[2023.03.23-16.20.09:615][ 10]Cmd: QUIT_EDITOR
+[2023.03.23-16.20.09:615][ 10]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.23-16.20.09:621][ 10]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.23-16.20.09:621][ 10]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.23-16.20.09:621][ 10]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.23-16.20.09:628][ 10]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.23-16.20.09:628][ 10]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.23-16.20.09:628][ 10]LogAudio: Display: Audio Device unregistered from world 'Dungeon'.
+[2023.03.23-16.20.09:628][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.23-16.20.09:629][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.23-16.20.09:635][ 10]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.23-16.20.09:640][ 10]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.23-16.20.09:640][ 10]LogExit: Preparing to exit.
+[2023.03.23-16.20.09:669][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.09:675][ 10]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.23-16.20.10:552][ 10]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:555][ 10]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:556][ 10]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:558][ 10]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:559][ 10]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:560][ 10]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:561][ 10]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:562][ 10]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:563][ 10]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:565][ 10]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:566][ 10]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:571][ 10]LogWorld: UWorld::CleanupWorld for Dungeon, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.20.10:604][ 10]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.23-16.20.10:611][ 10]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.03.23-16.20.10:611][ 10]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.23-16.20.10:614][ 10]LogExit: Editor shut down
+[2023.03.23-16.20.10:616][ 10]LogExit: Transaction tracking system shut down
+[2023.03.23-16.20.10:805][ 10]LogExit: Object subsystem successfully closed.
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Total job queries 321, among them cache hits 196 (61.06%)
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 56 distinct outputs (59.57%)
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Shaders Compiled: 39
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100.00%)
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Average time worker was idle: 220.13 s
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Time job spent in pending queue: average 2.89 s, longest 8.31 s
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.33 s
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Job life time (pending + execution): average 3.90 s, max 9.02
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.93 s
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Average processing rate: 6.30 jobs/sec
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.23-16.20.10:810][ 10]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 0.95 sec, max 1.00 sec, min 0.93 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.99 sec, min 0.89 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.95 sec, max 0.97 sec, min 0.92 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.46% of total time (compiled    6 times, average 0.83 sec, max 1.02 sec, min 0.61 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.43% of total time (compiled    6 times, average 0.82 sec, max 1.00 sec, min 0.62 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.94% of total time (compiled    6 times, average 0.76 sec, max 0.98 sec, min 0.56 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.23% of total time (compiled    4 times, average 0.81 sec, max 0.86 sec, min 0.70 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.88% of total time (compiled    3 times, average 0.99 sec, max 1.07 sec, min 0.88 sec)
+[2023.03.23-16.20.10:811][ 10]LogShaderCompilers: Display: ================================================
+[2023.03.23-16.20.10:903][ 10]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (880)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module AddContentDialog (878)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module WidgetCarousel (877)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module SubobjectEditor (874)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module StatusBar (870)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (868)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module StatsViewer (866)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (864)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module AutomationWorker (862)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (860)
+[2023.03.23-16.20.10:932][ 10]LogModuleManager: Shutting down and abandoning module GooglePADEditor (858)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (856)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (854)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module PlanarCut (852)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (846)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (844)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (842)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (840)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (838)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (836)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module WebMMedia (834)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (830)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorder (829)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (826)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (824)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (822)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (820)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (818)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (816)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (814)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module CharacterAI (812)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module TextureAlignMode (810)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module BspMode (808)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module GeometryMode (806)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module ControlRigEditor (804)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module AnimationEditor (803)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module IKRigEditor (800)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (798)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (796)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module SmartSnapping (794)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module SessionServices (792)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module MeshPaint (790)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (788)
+[2023.03.23-16.20.10:933][ 10]LogModuleManager: Shutting down and abandoning module PlacementMode (787)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (780)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module ActorPickerMode (778)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module EditorWidgets (774)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module ViewportInteraction (772)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module ClothPainter (770)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (769)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module LogVisualizer (766)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module IntroTutorials (764)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (762)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (760)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (759)
+[2023.03.23-16.20.10:934][ 10]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (757)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (754)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (752)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (750)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (748)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module CSVtoSVG (746)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (744)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module EditorConfig (742)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (740)
+[2023.03.23-16.20.11:561][ 10]LogModuleManager: Shutting down and abandoning module EditorFramework (738)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (736)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module TraceInsights (734)
+[2023.03.23-16.20.11:562][ 10]MemoryProfiler: Shutdown
+[2023.03.23-16.20.11:562][ 10]NetworkingProfiler: Shutdown
+[2023.03.23-16.20.11:562][ 10]LoadingProfiler: Shutdown
+[2023.03.23-16.20.11:562][ 10]TimingProfiler: Shutdown
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module TraceServices (733)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (730)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (729)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module InputBindingEditor (726)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module MergeActors (724)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (722)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module LocalizationService (721)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module HardwareTargeting (718)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (716)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module UndoHistory (714)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module XmlParser (712)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module Blutility (710)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (708)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (707)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (704)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (703)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module SettingsEditor (700)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module ProjectLauncher (698)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module SessionFrontend (696)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module ProfilerClient (694)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module DeviceManager (692)
+[2023.03.23-16.20.11:562][ 10]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (691)
+[2023.03.23-16.20.11:573][ 10]LogModuleManager: Shutting down and abandoning module AutomationController (688)
+[2023.03.23-16.20.11:573][ 10]LogModuleManager: Shutting down and abandoning module AutomationWindow (686)
+[2023.03.23-16.20.11:573][ 10]LogModu
