@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DungeonRaider.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\DungeonRaiderEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaider.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderCharacter.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderGameMode.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderProjectile.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\TP_PickUpComponent.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\TP_WeaponComponent.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaider.init.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderCharacter.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderGameMode.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\DungeonRaiderProjectile.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\Default.rc2.res"
+/OUT:"C:\Users\Shivan\Documents\Unreal Projects\DungeonRaider\DungeonRaider\DungeonRaider\Intermediate\Build\Win64\UnrealEditor\Development\DungeonRaider\UnrealEditor-DungeonRaider.lib"

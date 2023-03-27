@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\source\\dungeonraider\\dungeonraidergamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\dungeonraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\development\\dungeonraider\\definitions.dungeonraider.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\source\\dungeonraider\\dungeonraidergamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonraider\\dungeonraidergamemode.generated.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\source\\dungeonraider\\dungeonraidercharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\shivan\\documents\\unreal projects\\dungeonraider\\dungeonraider\\dungeonraider\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonraider\\dungeonraidercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
